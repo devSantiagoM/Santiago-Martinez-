@@ -43,9 +43,9 @@ Git · Metodologías ágiles · Internacionalización · Formularios seguros · 
 
 ## 🌐 Logros & Certificaciones
 
-- Certificado de participación en el **Hackathon MERCOSUR 2024** :contentReference[oaicite:0]{index=0}  
-- Becado por Itaipú (Universidad Autónoma de Asunción) :contentReference[oaicite:1]{index=1}  
-- Certificación de **inglés nivel B1** (EF SET) :contentReference[oaicite:2]{index=2}  
+- Certificado de participación en el **Hackathon MERCOSUR 2024**   
+- Becado por Itaipú (Universidad Autónoma de Asunción)
+- Certificación de **inglés nivel B1** (EF SET) 
 
 ---
 
