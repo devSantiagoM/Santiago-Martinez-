@@ -13,7 +13,7 @@ HTML · CSS · JavaScript · TypeScript · React · React Native · Tailwind CSS
 Vite · Next.js · Expo
 
 **Backend**  
-Python · APIs RESTful · MySQL 
+Python · Node.js · APIs RESTful · MySQL 
 
 **Otras herramientas**  
 Git · Metodologías ágiles · Internacionalización · Formularios seguros · Validaciones
