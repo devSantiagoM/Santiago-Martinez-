@@ -60,6 +60,6 @@ Git · Metodologías ágiles · Internacionalización · Formularios seguros · 
 ## 📫 Contacto
 
 - Portfolio: [santiagomartinez-developer.vercel.app](https://santiagomartinez-developer.vercel.app/)  
-- LinkedIn: [linkedin.com/in/tuusuario](www.linkedin.com/in/santiago-martínez-5496b8364)  
+- LinkedIn: [linkedin.com/in/santiago-martinez](www.linkedin.com/in/santiago-martínez-5496b8364)  
   
 
